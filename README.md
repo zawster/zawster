@@ -54,6 +54,7 @@
 ---
 
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [How to decompose the time series data?](https://zawster.wordpress.com/2020/05/05/how-to-decompose-the-time-series-data/)
 - [OpenCV Features of Contours](https://zawster.wordpress.com/2020/03/15/opencv-features-of-contours/)
