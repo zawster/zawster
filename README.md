@@ -69,7 +69,7 @@
 
 ---
 
-<img align="left" alt="zawster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zawster&show_icons=true&hide_border=true" />
+<img align="left" alt="zawster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zawster&show_icons=true&hide=contribs" />
 
 [website]: https://zawster.wordpress.com
 [twitter]: https://twitter.com/zawster_
