@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammad Ahsan - aka [zawster][website] 👋
 
-## I'm a Son, System Admin, Data Scientist, Developer,Student and Teach!
+## I'm a Son, System Admin, Data Scientist, Developer,Student and Teacher!
 - 🔭 I’m currently working in [Data Science field][website]!
 - 🌱 I love to take new chalanges
 - 👯 I want opensourse contribution
