@@ -2,8 +2,8 @@
 
 ## I'm a Son, System Admin, Data Scientist, Developer,Student and Teacher Assistant(TA)!
 - 🔭 I’m currently working in [Data Science field][website]!
-- 🌱 I love to take new chalanges
-- 👯 I want opensourse contribution
+- 🌱 I love to take new chalanges!
+- 👯 I want Opensourse contribution
 - 🥅 2020 Goals: main focus on Final year project
 
 ### Connect with me:
