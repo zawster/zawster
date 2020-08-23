@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in [Data Science field][website]!
 - 🌱 I love to take new chalanges!
 - 👯 I want Opensourse Contribution!
-- 🥅 2020 Goals: main focus on Final year project
+- 🥅 2020 Goals: main focus on Final year project(FYP)!
 
 ### Connect with me:
 
