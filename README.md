@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Ahsan - aka [zawster][website] 👋 [![HitCount](http://hits.dwyl.com/zawster/zawster.svg)](http://hits.dwyl.com/zawster/zawster) 
+### Hi there, I'm Muhammad Ahsan - aka [zawster][website] 👋 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fzawster%2F)
 
 ## I'm a Son, System Admin, Data Scientist, Developer,Student and Teacher Assistant(TA)!
 - 🔭 I’m currently working in [Data Science field][website]!
