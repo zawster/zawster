@@ -1,10 +1,10 @@
 ### Hi there, I'm Muhammad Ahsan - aka [zawster][website] 👋 ![Hits](https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=collabnix.github.io%2Fdockerlabs%2F)
 
-## I'm a Son, System Admin, Data Scientist, Developer,Student and Teacher Assistant(TA)!
+## I'm a System Admin, Data Scientist, Software Developer,Student and Teacher Assistant(TA)!
 - 🔭 I’m currently working in [Data Science field][website]!
 - 🌱 I love to take new chalanges!
 - 👯 I want Opensourse Contribution!
-- 🥅 2020 Goals: main focus on Final year project(FYP)!
+- 🥅 Goals: In 2020 main focus on Final year project(FYP)! and after that looking for oppertunities.
 
 ### Connect with me:
 
