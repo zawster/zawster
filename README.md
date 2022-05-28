@@ -53,6 +53,7 @@ width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /><br /><br />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /><br /><br />
 
 <br />
 <br />
@@ -71,7 +72,9 @@ width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4
 
 ---
 
-<img align="left" alt="zawster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zawster&show_icons=true&hide=contribs" />
+<!-- <img align="left" alt="zawster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zawster&show_icons=true&hide=contribs" /> -->
+<b>🔥 zawster's Github Stats</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m0rp43us&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
 
 [website]: https://zawster.wordpress.com
 [twitter]: https://twitter.com/zawster_
