@@ -1,13 +1,16 @@
 ### 👋 Hi there, I'm Muhammad Ahsan - aka [zawster][website] 
 
 ## I'm a Senior Data Scientist with a passion for transforming raw data into actionable insights that drive business value and innovation. My expertise lies in leveraging advanced AI solutions to empower businesses and unlock their potential.
-🌍 What I Do:
-  - 🧠 ##AI-Driven Innovation:## I create enhanced AI solutions that bring a competitive edge to businesses.
-  - 📈 ##Value from Data:## I transform raw data into impactful business strategies.
-  - 🛠 ##Continuous Learning:## Always exploring new techniques and pushing boundaries.
-🌱 I’m Always Ready for Challenges
-🤝 Looking to Collaborate on projects that drive innovation and add real-world value.
-🥅 Goal: To architect sophisticated, AI-powered systems that solve complex challenges!
+🌍 **What I Do:**
+  - 🧠 **AI-Driven Innovation:** I create enhanced AI solutions that bring a competitive edge to businesses.
+  - 📈 **Value from Data:** I transform raw data into impactful business strategies.
+  - 🛠 **Continuous Learning:** Always exploring new techniques and pushing boundaries.
+
+🌱 **I’m Always Ready for Challenges**
+
+🤝 **Looking to Collaborate** on projects that drive innovation and add real-world value.
+
+🥅 **Goal:** To architect sophisticated, AI-powered systems that solve complex challenges!
 
 ### Connect with me:
 
