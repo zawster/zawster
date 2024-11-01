@@ -1,10 +1,13 @@
-### Hi there, I'm Muhammad Ahsan - aka [zawster][website] 👋 ![Hits](https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=collabnix.github.io%2Fdockerlabs%2F)
+### 👋 Hi there, I'm Muhammad Ahsan - aka [zawster][website] 
 
-## I'm a System Admin, Data Scientist, Software Developer,Student and Teacher Assistant(TA)!
-- 🔭 I’m currently working as a [Data Science][website]!
-- 🌱 I love to take new chalanges!
-- 👯 I want Opensourse Contribution!
-- 🥅 Goals: Senior architect of complex systems!
+## I'm a Senior Data Scientist with a passion for transforming raw data into actionable insights that drive business value and innovation. My expertise lies in leveraging advanced AI solutions to empower businesses and unlock their potential.
+🌍 What I Do:
+  - 🧠 ##AI-Driven Innovation:## I create enhanced AI solutions that bring a competitive edge to businesses.
+  - 📈 ##Value from Data:## I transform raw data into impactful business strategies.
+  - 🛠 ##Continuous Learning:## Always exploring new techniques and pushing boundaries.
+🌱 I’m Always Ready for Challenges
+🤝 Looking to Collaborate on projects that drive innovation and add real-world value.
+🥅 Goal: To architect sophisticated, AI-powered systems that solve complex challenges!
 
 ### Connect with me:
 
@@ -64,10 +67,7 @@ width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /><br /><br />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /><br /><br />
-
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /><br /><br />
 <br />
 <br />
 
