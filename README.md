@@ -41,7 +41,7 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
 
 <br/>
 
-<div align="center">
+<div align="center" margin-top="20px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
