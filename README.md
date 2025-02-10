@@ -5,6 +5,7 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
 - 📈 **Data-Driven Strategies**: Turning complex datasets into valuable insights.
 - 🛠 **Continuous Learning**: Exploring new techniques and staying ahead in AI advancements.
 - 🤝 **Collaboration**: Open to working on AI projects that create real-world impact.
+- 🧩 **Problem Solving**: Breaking down complex challenges into actionable steps and crafting effective, innovative solutions—no matter the domain.
 
 ### 🚀 Currently Working On
   - Building AI-powered solutions for automation, optimization, and predictive analytics.
