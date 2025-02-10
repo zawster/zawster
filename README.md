@@ -1,13 +1,17 @@
 # 💫 About Me:
 I'm a **Senior Data Scientist** passionate about transforming raw data into actionable insights that drive business value and innovation. My expertise lies in **AI-driven solutions**, **predictive modeling**, and **data-driven decision-making**.  <br><br>
-### 🌍 What I Do  <br><br>- 🧠 **AI & Data Science**: Designing intelligent systems that optimize business operations.  
+### 🌍 What I Do 
+- 🧠 **AI & Data Science**: Designing intelligent systems that optimize business operations.  
 - 📈 **Data-Driven Strategies**: Turning complex datasets into valuable insights.
 - 🛠 **Continuous Learning**: Exploring new techniques and staying ahead in AI advancements.
 - 🤝 **Collaboration**: Open to working on AI projects that create real-world impact.
 
-### 🚀 Currently Working On  <br>Building AI-powered solutions for automation, optimization, and predictive analytics.
-### 🔍 Ask Me About  <br>The **latest trends in Data Science and AI**, including **LLMs, MLOps, and AI Governance**.  
-### 🔥 Fun Fact  <br>I regularly share insights on AI & Data Science—**stay tuned for my blog articles!** 🚀 
+### 🚀 Currently Working On
+  - Building AI-powered solutions for automation, optimization, and predictive analytics.
+### 🔍 Ask Me About
+  - The **latest trends in Data Science and AI**, including **LLMs, MLOps, and AI Governance**.  
+### 🔥 Fun Fact
+   - I regularly share insights on AI & Data Science—**stay tuned for my blog articles!** 🚀 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zawster2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zawster_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zawster) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11754828/zawster) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zawster_) 
@@ -18,13 +22,13 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
 ---
 
 # 📕 Latest Blog Posts
-- [Navigating the AI Essentials: Unlocking Compliance and Governance in AI](https://zawster.wordpress.com/2025/01/13/navigating-the-ai-essentials-unlocking-compliance-and-governance-in-ai/){:target="_blank"}
-- [Prompt Engineering: The Key to Unlocking the Full Potential of LLMs](https://zawster.wordpress.com/2024/05/21/prompt-engineering-the-key-to-unlocking-the-full-potential-of-llms/){:target="_blank"}
-- [A Beginner’s Guide to BERT Architecture](https://zawster.wordpress.com/2020/08/24/a-beginners-guide-to-bert-architecture/){:target="_blank"}
-- [How to decompose the time series data?](https://zawster.wordpress.com/2020/05/05/how-to-decompose-the-time-series-data/){:target="_blank"}
-- [OpenCV Features of Contours](https://zawster.wordpress.com/2020/03/15/opencv-features-of-contours/){:target="_blank"}
-- [A gentle intro to White Noise](https://zawster.wordpress.com/2020/04/16/a-gentle-intro-to-white-noise/){:target="_blank"}
-- [Programming with ZeroMQ](https://zawster.wordpress.com/2019/09/12/programming-with-zeromq/){:target="_blank"}
+- [Navigating the AI Essentials: Unlocking Compliance and Governance in AI](https://zawster.wordpress.com/2025/01/13/navigating-the-ai-essentials-unlocking-compliance-and-governance-in-ai/)\{:target="_blank"}
+- [Prompt Engineering: The Key to Unlocking the Full Potential of LLMs](https://zawster.wordpress.com/2024/05/21/prompt-engineering-the-key-to-unlocking-the-full-potential-of-llms/)\{:target="_blank"}
+- [A Beginner’s Guide to BERT Architecture](https://zawster.wordpress.com/2020/08/24/a-beginners-guide-to-bert-architecture/)\{:target="_blank"}
+- [How to decompose the time series data?](https://zawster.wordpress.com/2020/05/05/how-to-decompose-the-time-series-data/)\{:target="_blank"}
+- [OpenCV Features of Contours](https://zawster.wordpress.com/2020/03/15/opencv-features-of-contours/)\{:target="_blank"}
+- [A gentle intro to White Noise](https://zawster.wordpress.com/2020/04/16/a-gentle-intro-to-white-noise/)\{:target="_blank"}
+- [Programming with ZeroMQ](https://zawster.wordpress.com/2019/09/12/programming-with-zeromq/)\{:target="_blank"}
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
