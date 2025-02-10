@@ -33,6 +33,10 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
 - [A gentle intro to White Noise](https://zawster.wordpress.com/2020/04/16/a-gentle-intro-to-white-noise/)
 - [Programming with ZeroMQ](https://zawster.wordpress.com/2019/09/12/programming-with-zeromq/)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zawster&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
@@ -41,11 +45,6 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zawster&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zawster&limit=5&theme=radical&combine_all_yearly_contributions=true)
