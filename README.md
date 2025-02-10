@@ -22,13 +22,13 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
 ---
 
 # 📕 Latest Blog Posts
-- [Navigating the AI Essentials: Unlocking Compliance and Governance in AI](https://zawster.wordpress.com/2025/01/13/navigating-the-ai-essentials-unlocking-compliance-and-governance-in-ai/)\{:target="_blank"}
-- [Prompt Engineering: The Key to Unlocking the Full Potential of LLMs](https://zawster.wordpress.com/2024/05/21/prompt-engineering-the-key-to-unlocking-the-full-potential-of-llms/)\{:target="_blank"}
-- [A Beginner’s Guide to BERT Architecture](https://zawster.wordpress.com/2020/08/24/a-beginners-guide-to-bert-architecture/)\{:target="_blank"}
-- [How to decompose the time series data?](https://zawster.wordpress.com/2020/05/05/how-to-decompose-the-time-series-data/)\{:target="_blank"}
-- [OpenCV Features of Contours](https://zawster.wordpress.com/2020/03/15/opencv-features-of-contours/)\{:target="_blank"}
-- [A gentle intro to White Noise](https://zawster.wordpress.com/2020/04/16/a-gentle-intro-to-white-noise/)\{:target="_blank"}
-- [Programming with ZeroMQ](https://zawster.wordpress.com/2019/09/12/programming-with-zeromq/)\{:target="_blank"}
+- [Navigating the AI Essentials: Unlocking Compliance and Governance in AI](https://zawster.wordpress.com/2025/01/13/navigating-the-ai-essentials-unlocking-compliance-and-governance-in-ai/)
+- [Prompt Engineering: The Key to Unlocking the Full Potential of LLMs](https://zawster.wordpress.com/2024/05/21/prompt-engineering-the-key-to-unlocking-the-full-potential-of-llms/)
+- [A Beginner’s Guide to BERT Architecture](https://zawster.wordpress.com/2020/08/24/a-beginners-guide-to-bert-architecture/)
+- [How to decompose the time series data?](https://zawster.wordpress.com/2020/05/05/how-to-decompose-the-time-series-data/)
+- [OpenCV Features of Contours](https://zawster.wordpress.com/2020/03/15/opencv-features-of-contours/)
+- [A gentle intro to White Noise](https://zawster.wordpress.com/2020/04/16/a-gentle-intro-to-white-noise/)
+- [Programming with ZeroMQ](https://zawster.wordpress.com/2019/09/12/programming-with-zeromq/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
