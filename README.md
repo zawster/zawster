@@ -34,12 +34,14 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
 - [Programming with ZeroMQ](https://zawster.wordpress.com/2019/09/12/programming-with-zeromq/)
 
 ## 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+<div align="center">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zawster&theme=radical&hide_border=false" />
 </div>
-
-<br/><br/>
+<br/>
+<div align="center">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
