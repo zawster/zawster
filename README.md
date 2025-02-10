@@ -35,8 +35,12 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
 
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zawster&theme=radical&hide_border=false" />
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  </div>
+  <div align="right">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zawster&theme=radical&hide_border=false" />
+  </div>
 </div>
 
 <br/>
