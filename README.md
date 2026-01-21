@@ -11,8 +11,10 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
   - Building AI-powered solutions for automation, optimization, and predictive analytics.
 ### 🔍 Ask Me About
   - The **latest trends in Data Science and AI**, including **LLMs, MLOps, and AI Governance**.  
-### 🔥 Fun Fact
-   - I regularly share insights on AI & Data Science—**stay tuned for my blog articles!** 🚀 
+### ☕ Fun Facts
+  - I regularly share insights on AI & Data Science — stay tuned for my blog articles.
+  - I enjoy making tea (chaye) — it’s my go-to break while thinking through problems and designing systems.
+  - In my free time, I play badminton and cricket.
 
 
 ## 🌐 Socials:
