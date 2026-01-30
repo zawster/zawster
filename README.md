@@ -41,6 +41,8 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
   ![LangGraph](https://img.shields.io/badge/LangGraph-%23223B36.svg?style=for-the-badge&logo=langgraph&logoColor=white)
   ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
   ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![Claude Code](https://img.shields.io/badge/Claude%20Code-1E1E1E?style=for-the-badge&logo=anthropic&logoColor=white)
 
 - Data Analysis & Visualization
 
