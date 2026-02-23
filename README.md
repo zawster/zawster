@@ -2,7 +2,7 @@
 I'm a **Senior Data Scientist** passionate about transforming raw data into actionable insights that drive business value and innovation. My expertise lies in **AI-driven solutions**, **predictive modeling**, and **data-driven decision-making**.  <br><br>
 ### 🌍 What I Do 
 - 🧠 **AI & Data Science**: Designing intelligent systems that optimize business operations.  
-- 📈 **Data-Driven Strategies**: Turning complex datasets into valuable insights.
+- 📈 **Data-Driven Strategies**: Turning complex datasets into valuable business insights.
 - 🛠 **Continuous Learning**: Exploring new techniques and staying ahead in AI advancements.
 - 🤝 **Collaboration**: Open to working on AI projects that create real-world impact.
 - 🧩 **Problem Solving**: Breaking down complex challenges into actionable steps and crafting effective, innovative solutions—no matter the domain.
