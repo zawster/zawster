@@ -1,21 +1,23 @@
 # About Me:
-I'm a **Senior Data Scientist** passionate about transforming raw data into actionable insights that drive business value and innovation. My expertise lies in **AI-driven solutions**, **predictive modeling**, and **data-driven decision-making**.  <br><br>
+**Senior AI/ML Engineer** and **Data Scientist** with **5+ years of experience** building production-grade AI systems and data-driven solutions. I focus on transforming complex data into scalable models and intelligent systems that drive business impact and operational efficiency.  <br><br>
+
 ### What I Do 
-- 🧠 **AI & Data Science**: Designing intelligent systems that optimize business operations.  
-- 📈 **Data-Driven Strategies**: Turning complex datasets into valuable business insights.
-- 🛠 **Continuous Learning**: Exploring new techniques and staying ahead in AI advancements.
-- 🤝 **Collaboration**: Open to working on AI projects that create real-world impact.
-- 🧩 **Problem Solving**: Breaking down complex challenges into actionable steps and crafting effective, innovative solutions—no matter the domain.
+- 🧠 AI & Machine Learning – Design and deploy intelligent systems for prediction, automation, and optimization.
+- ⚙️ Production AI Systems – Build scalable ML pipelines and production-ready AI solutions.
+- 📊 Data Strategy & Analytics – Translate complex datasets into actionable insights that support business decisions.
+- 🧩 Problem Solving – Break down complex challenges and deliver practical, high-impact solutions across domains.
+- 🤝 Collaboration – Work with engineers, analysts, and stakeholders to turn ideas into production systems.
 
 ### Currently Working On
-  - Building AI-powered solutions for automation, optimization, and predictive analytics.
-### 🔍 Ask Me About
-  - The **latest trends in Data Science and AI**, including **LLMs, MLOps, and AI Governance**.  
-### ☕ Fun Facts
-  - I regularly share insights on AI & Data Science — stay tuned for my blog articles.
-  - I enjoy making chaye (tea) — it’s my go-to break while thinking through problems and designing systems.
-  - In my free time, I play badminton and cricket.
+  - Developing production-grade **AI-powered solutions for automation, optimization, and predictive analytics**.
+    
+### Ask Me About
+- **Machine Learning, LLMs, MLOps, and Applied AI in production systems**  
 
+### Beyond Work
+  - ☕ I enjoy making **chaye (tea)** — my favorite thinking fuel while designing systems.
+  - 🍽️ I love exploring new food spots and trying different cuisines.
+  - ✍️ I occasionally share **insights on AI and Data Science** through blogs and discussions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zawster2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zawster_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zawster) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11754828/zawster) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zawster_) 
@@ -107,16 +109,15 @@ I'm a **Senior Data Scientist** passionate about transforming raw data into acti
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 </div>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zawster&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 😄 Dev Joke
+![](https://camo.githubusercontent.com/6ac07f173f20c1071cca3a01a8e88a58b583afedd0e8ca6c8629692a9fe3c23a/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069)
 
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zawster&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- ## 💰☕😊 You can support me by buying me a coffee!
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zawster)  -->
 
   
