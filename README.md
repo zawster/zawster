@@ -109,7 +109,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawster&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 </div>
 
-## 😄 Dev Joke
+## Dev Joke
 ![](https://camo.githubusercontent.com/6ac07f173f20c1071cca3a01a8e88a58b583afedd0e8ca6c8629692a9fe3c23a/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069)
 
 <!-- ## ✍️ Dev Quote
