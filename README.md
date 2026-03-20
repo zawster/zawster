@@ -1,7 +1,7 @@
 # About Me:
 **Senior AI/ML Engineer** and **Data Scientist** with **5+ years of experience** building production-grade AI systems and data-driven solutions. I focus on transforming complex data into scalable models and intelligent systems that drive business impact and operational efficiency.  <br><br>
 
-### What I Do 
+### What I Do
 - 🧠 AI & Machine Learning – Design and deploy intelligent systems for prediction, automation, and optimization.
 - ⚙️ Production AI Systems – Build scalable ML pipelines and production-ready AI solutions.
 - 📊 Data Strategy & Analytics – Translate complex datasets into actionable insights that support business decisions.
@@ -10,7 +10,7 @@
 
 ### Currently Working On
   - Developing production-grade **AI-powered solutions for automation, optimization, and predictive analytics**.
-    
+
 ### Ask Me About
 - **Machine Learning, LLMs, MLOps, and Applied AI in production systems**  
 
@@ -26,7 +26,6 @@
 ## 💻 Tech Stack
 
 - Programming Languages
-
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
