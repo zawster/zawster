@@ -1,5 +1,5 @@
 # About Me:
-**Senior AI/ML Engineer** and **Data Scientist** with **5+ years of experience** building production-grade AI systems and data-driven solutions. I focus on transforming complex data into scalable models and intelligent systems that drive business impact and operational efficiency.  <br><br>
+**Senior AI/ML Engineer** and **Data Scientist** with **5+ years of experience** building production-grade AI systems and data-driven solutions. I focus on transforming complex data into scalable models and intelligent systems that drive business impact and operational efficiency.
 
 ### What I Do
 - 🧠 AI & Machine Learning – Design and deploy intelligent systems for prediction, automation, and optimization.
