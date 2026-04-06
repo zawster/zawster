@@ -15,7 +15,7 @@
 - **Machine Learning, LLMs, MLOps, and Applied AI in production systems**  
 
 ### Beyond Work
-  - ☕ I enjoy making **chaye (tea)** — my favorite thinking fuel while designing systems.
+  - ☕ I enjoy making **chaye (tea)**, my favorite thinking fuel while designing systems.
   - 🍽️ I love exploring new food spots and trying different cuisines.
   - ✍️ I occasionally share **insights on AI and Data Science** through blogs and discussions.
 
