@@ -99,9 +99,9 @@
 - [Prompt Engineering: The Key to Unlocking the Full Potential of LLMs](https://zawster.wordpress.com/2024/05/21/prompt-engineering-the-key-to-unlocking-the-full-potential-of-llms)
 - [A Beginner’s Guide to BERT Architecture](https://zawster.wordpress.com/2020/08/24/a-beginners-guide-to-bert-architecture/)
 - [How to decompose the time series data?](https://zawster.wordpress.com/2020/05/05/how-to-decompose-the-time-series-data/)
-- [OpenCV Features of Contours](https://zawster.wordpress.com/2020/03/15/opencv-features-of-contours/)
-- [A gentle intro to White Noise](https://zawster.wordpress.com/2020/04/16/a-gentle-intro-to-white-noise/)
-- [Programming with ZeroMQ](https://zawster.wordpress.com/2019/09/12/programming-with-zeromq/)
+- [OpenCV Features of Contours](https://zawster.wordpress.com/2020/03/15/opencv-features-of-contours)
+- [A gentle intro to White Noise](https://zawster.wordpress.com/2020/04/16/a-gentle-intro-to-white-noise)
+- [Programming with ZeroMQ](https://zawster.wordpress.com/2019/09/12/programming-with-zeromq)
 
 ## 📊 GitHub Stats:
 <div align="left">
